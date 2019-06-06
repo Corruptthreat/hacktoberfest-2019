@@ -334,3 +334,7 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Deepak Rawte](https://github.com/Corruptthreat)
+- Place: Raipur, Chhattisgarh
+- Bio: Full stack developer
+- GitHub: [Corruptthreat](https://github.com/Corruptthreat)
