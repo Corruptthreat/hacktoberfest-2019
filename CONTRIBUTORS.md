@@ -338,3 +338,8 @@
 - Place: Raipur, Chhattisgarh
 - Bio: Full stack developer
 - GitHub: [Corruptthreat](https://github.com/Corruptthreat)
+
+#### Name: [Thalendra Sahu](https://github.com/IAMTAHLENDRA)
+- Place: Raigarh, Chhattisgarh
+- Bio: Full stack developer
+- GitHub: [IAMTAHLENDRA](https://github.com/IAMTAHLENDRA)
