@@ -338,3 +338,8 @@
 - Place: Raipur, Chhattisgarh
 - Bio: Full stack developer
 - GitHub: [Corruptthreat](https://github.com/Corruptthreat)
+
+#### Name: [Atishay Jain](https://github.com/AtishayRK)
+- Place: Lalitpur, UttarPradesh
+- Bio: Full stack developer
+- GitHub: [AtishayRK](https://github.com/AtishayRK)
