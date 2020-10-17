@@ -3,7 +3,12 @@
 // GITHUB: https://github.com/brunnnka
 
 public class HelloWorld {
+  
+  public static String find(String s){
+     return s;
+  }
   public static void main() {
-    System.out.println("Hello, World!");
+    String s = "Hello world";
+    System.out.println(s);
   }
 }
